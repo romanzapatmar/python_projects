@@ -1,4 +1,5 @@
 # python_projects
+# Developed by Roman Zapatmar <romanzapatmar123@gmail.com>
 # This mini_projects developed using basic concepts of python like datatypes, list, tuple, set and dictionaries and some of basic built-in libraries like numpy, math etc. 
 
 Projects : 
